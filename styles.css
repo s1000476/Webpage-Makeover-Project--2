@@ -1,10 +1,10 @@
 body {
-    background-color:yellow;
+    background-color:green;
     font-family: 'Arial', sans-serif;
 }
 
 .container {
-    background-color: green;
+    background-color: yellow;
     border: 1px solid #ddd;
     padding: 40px;
     border-radius: 8px;
